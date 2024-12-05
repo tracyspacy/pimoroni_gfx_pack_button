@@ -1,5 +1,6 @@
 [package]
 authors = ["tracyspacy"]
+categories = ["embedded", "hardware-support", "no-std"]
 name = "pimoroni_gfx_pack_button"
 description = "Driver for LCD GFX PACK buttons by Pimoroni"
 version = "0.1.0"
